@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PonmozhiAnbu
-- 👀 I’m interested in coding, food and soccer.
-- 🌱 I’m currently working as a PySpark Developer.
+- 👀 I’m into coding, food and football.
+- 🌱 I’m now Senior BigData Engineer.
 - 💞️ I’m looking to collaborate on Big Data Projects.
 
 <!---
