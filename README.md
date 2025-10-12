@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PonmozhiAnbu
-- 👀 I’m into coding, food and football.
-- 🌱 I’m now Senior BigData Engineer.
-- 💞️ I’m looking to collaborate on Big Data Projects.
+- 👀 Love to code, eat and play football.
+- 🌱 Principal Consultant - Loves to dig in data and create data pipelines.
+- 💞️ Looking for UAE / Eurpope opportunities.
 
 <!---
 PonmozhiAnbu/PonmozhiAnbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
